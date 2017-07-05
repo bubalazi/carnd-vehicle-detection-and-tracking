@@ -13,3 +13,5 @@ In order to be able to execute the notebook file, you need to download and extra
 [GTI Data](https://www.gti.ssr.upm.es/data/Vehicle_database.html)
 
 [Udacity Data](https://github.com/udacity/self-driving-car/tree/master/annotations)
+
+*Note: Due to github restriction, the training data is not included, but can with ease be regenerated, once the input data is downloaded * 
